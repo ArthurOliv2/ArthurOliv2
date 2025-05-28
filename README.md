@@ -42,6 +42,14 @@
 
 ---
 
+### 📊 Contribuições
+
+<div align="center">
+  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArthurOliv2&style=flat-square" alt="Profile Views"/>
 </p>
