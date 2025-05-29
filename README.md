@@ -31,7 +31,8 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🔗 [Motolink](https://github.com/seu-usuario/motolink): Projeto academico funcionalidades em ReactJS + Next.js
+- 🔗 [Motolink](https://github.com/ArthurOliv2/motolink): Projeto academico funcionalidades em ReactJS + Next.js
+- 🔗 [Crud de Contato](https://github.com/ArthurOliv2/crud_contatos): CRUD de Contatos basico 
 
 ---
 
